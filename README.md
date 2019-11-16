@@ -1,2 +1,2 @@
 # ACM-Hackschool
-My repository for a website mean generator, created at UCSD ACM HackSchool. Using MERN, Node.js, and React.
+Old test code from beginning of Fall quarter to practice.
